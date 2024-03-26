@@ -9,7 +9,7 @@ Puedes implementar el resumen de Linkedin en este espacio, o puedes personalizar
 ## 📫 Contacto
 
 - Puedes contactarme a través de mi correo electrónico: **<paumau27@gmail.com>**
-- Puedes contactarme a través de **[Linkedin]([https://www.linkedin.com/in/example](https://www.linkedin.com/in/paula-maureira-bb7388152/))**
+- Puedes contactarme a través de **[Linkedin]([https://www.linkedin.com/in/example](https://www.linkedin.com/in/paula-maureira-bb7388152/)])**
 - Puedes visitar mi **[sitio web](https://example.com)**
 
 ### 🎨 Frontend
