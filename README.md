@@ -1,11 +1,6 @@
-# Hola 👋, soy Paula Maureira
+Hola 👋, soy Paula Maureira
 
-Usa este espacio para presentarte y contar a la comunidad de GitHub cuál es tu experiencia, tus habilidades y tus objetivos profesionales.
-
-Puedes usar este espacio para incluir información sobre tu educación, tus certificaciones, tus proyectos, tus logros y tus metas profesionales.
-
-Puedes implementar el resumen de Linkedin en este espacio, o puedes personalizarlo según tus necesidades y preferencias.
-
+Entusiasta de la tecnología y recién llegado al mundo de la programación, completé con éxito el bootcamp "Desarrollo de aplicaciones Full Stack Javascript Trainee V2.0" de Talento Digital en conjunto don Desafío Latam. Durante este programa, adquirí habilidades fundamentales en Front end, Back end y Full Stack, demostrando mi capacidad para aprender rápidamente y enfrentar desafíos con determinación. Estoy ansioso por aplicar estas habilidades en proyectos innovadores y emocionado por la oportunidad de seguir aprendiendo y creciendo en el campo tecnológico.
 ## 📫 Contacto
 
 - Puedes contactarme a través de mi correo electrónico: **<paumau27@gmail.com>**
