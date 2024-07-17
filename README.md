@@ -7,6 +7,7 @@ Actualmente estoy en el curso de Oracle y Alura Latam para perfeccionar mis cono
 
 - Puedes contactarme a través de mi correo electrónico: **<paumau27@gmail.com>**
 - Puedes contactarme a través de **[Linkedin](https://www.linkedin.com/in/paula-maureira-bb7388152/)**
+- Puedes revisar mi curriculum en **https://drive.google.com/file/d/1KCSulYeVckWfka4WGR3LEnIh8PFeedyP/view?usp=drive_link**
 
 ### 🎨 Frontend
 
