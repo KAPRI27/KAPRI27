@@ -1,7 +1,7 @@
 Hola 👋, soy Paula Maureira
 
 Entusiasta de la tecnología y del mundo de la programación, completé con éxito el bootcamp "Desarrollo de aplicaciones Full Stack Javascript Trainee V2.0" de Talento Digital en conjunto con Desafío Latam. Durante este programa, adquirí habilidades fundamentales en Front end, Back end y Full Stack, demostrando mi capacidad para aprender rápidamente y enfrentar desafíos con determinación. Estoy ansiosa por aplicar estas habilidades en proyectos innovadores y emocionada por la oportunidad de seguir aprendiendo y creciendo en el campo tecnológico.
-Actualmente estoy en el curso de Oracle y Alura Latam para perfeccionar mis conocimientos en FrontEnd.
+Actualmente estoy terminando una especialización como Product Owner con Talento Digital.
 
 ## 📫 Contacto
 
